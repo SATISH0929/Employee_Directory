@@ -27,3 +27,7 @@
 - Simulating dynamic rendering and sorting without a backend
 - Making footer stick to the bottom on all screen sizes
 - Ensuring a clean layout with just HTML and vanilla JavaScript
+
+# OUTPUT
+
+<img width="1920" height="981" alt="Image" src="https://github.com/user-attachments/assets/7d80107a-55b0-43f0-bee6-8540ee15b05c" />
